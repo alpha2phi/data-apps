@@ -1,2 +1,9 @@
 # data-apps
-Data applications.
+
+Data applications built on
+
+- airflow
+- dagster
+- dbt
+- luigi
+- prefect
